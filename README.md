@@ -1,4 +1,4 @@
-# grey-machine-learning
+# Grey-Machine-Learning
 The original source code of the grey machine learning models
 
 The grey machine learning is quite efficient in nonlinear time series forecasting.
